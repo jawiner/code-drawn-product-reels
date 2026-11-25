@@ -7,7 +7,8 @@ re-recorded line, see gemini-voice.json "spoken").
     <speech Python> -X utf8 tools/blind_check.py voice/leadflow
     <speech Python> -X utf8 tools/blind_check.py voice/leadflow --ids quote,prep --models ivrit-ai/whisper-large-v3-turbo-ct2,medium
 
-Trust the Hebrew model (ivrit-ai). The generic "medium" model slips on Hebrew words that are said correctly, so use
+For English: --language en --models small.en (or large-v3-turbo). For Hebrew, trust the ivrit-ai model: the generic
+"medium" model slips on Hebrew words that are said correctly, so use
 it only as a second opinion. Needs ffmpeg and the speech venv (requirements-speech.txt).
 """
 import argparse

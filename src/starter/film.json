@@ -1,0 +1,99 @@
+{
+  "direction": "ltr",
+  "wordsPerSecond": 2.7,
+  "palette": {
+    "ground": "oklch(14.5% 0.022 255)",
+    "ink": "oklch(96.5% 0.008 240)",
+    "muted": "oklch(74% 0.025 245)",
+    "accent": "oklch(80% 0.12 212)",
+    "second": "oklch(84% 0.12 85)"
+  },
+  "tag": { "text": "Example film", "fromSec": 4 },
+  "sampleLabel": "Example",
+  "music": { "file": "starter/bed.mp3", "hitSec": 36.037, "quiet": 0.14, "loud": 0.3 },
+  "voice": {
+    "name": "Sulafat",
+    "pace": "normal",
+    "style": "Calm, warm, confident narrator for a short film about how a video is made, speaking to people who make things. Natural and friendly, never salesy. The opening question is curious and light. Then steady and clear, one step at a time, with short pauses at commas. The last line is slower and lands softly."
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "kind": "hook",
+      "title": ["No camera.", "No footage."],
+      "line": "No camera and no footage. So how was this film made?"
+    },
+    {
+      "id": "story",
+      "kind": "board",
+      "label": "The story",
+      "title": "Write the story first",
+      "line": "First the story: a hook on the first frame, one thing to follow, and every line approved word for word.",
+      "show": {
+        "type": "checklist",
+        "items": [
+          { "text": "A hook on the first frame", "at": "hook" },
+          { "text": "One thing to follow", "at": "follow" },
+          { "text": "Every line approved", "at": "approved" }
+        ]
+      }
+    },
+    {
+      "id": "voice",
+      "kind": "board",
+      "label": "The voice",
+      "title": "An AI voice reads it",
+      "line": "Then an AI voice reads it, and every word gets a time, so the picture lands on the word.",
+      "show": {
+        "type": "rows",
+        "items": [
+          { "label": "Voice", "value": "Gemini · Sulafat", "at": "voice" },
+          { "label": "Words", "value": "Each one timed", "at": "time" },
+          { "label": "Picture", "value": "Lands on the word", "at": "lands" }
+        ]
+      }
+    },
+    {
+      "id": "music",
+      "kind": "board",
+      "label": "The music",
+      "title": "Cut on the beat",
+      "line": "The music is cut on the beat, so its strongest bar hits the payoff.",
+      "show": {
+        "type": "stats",
+        "items": [
+          { "value": "112", "label": "beats a minute", "at": "beat" },
+          { "value": "8", "label": "the bar that hits the payoff", "at": "strongest" }
+        ]
+      }
+    },
+    {
+      "id": "checks",
+      "kind": "board",
+      "label": "The checks",
+      "title": "Check before sending",
+      "line": "And before anyone sees it, a blind transcript checks that every line made it in.",
+      "show": {
+        "type": "message",
+        "items": [
+          { "from": "them", "text": "Is every line in the film?", "at": "blind" },
+          { "from": "you", "text": "All of them, in order. Nothing cut off.", "at": "every" }
+        ]
+      }
+    },
+    {
+      "id": "payoff",
+      "kind": "payoff",
+      "title": ["One story.", "Drawn in code."],
+      "line": "That's how: one story, a moving camera, and not a single frame filmed."
+    },
+    {
+      "id": "close",
+      "kind": "end",
+      "name": "Your film here",
+      "tagline": "Every word of it lives in film.json",
+      "button": "Edit film.json",
+      "line": "Now tell your own story, one line at a time."
+    }
+  ]
+}

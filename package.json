@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "studio": "remotion studio src/index.ts",
+    "timeline": "node tools/print_timeline.mjs",
+    "render:starter": "remotion render src/index.ts Starter out/starter-raw.mp4 --codec=h264 --crf=16",
     "render:receptionist": "remotion render src/index.ts Receptionist3D out/receptionist-raw.mp4 --codec=h264 --crf=16",
     "render:leadflow": "remotion render src/index.ts LeadFlow3D out/leadflow-raw.mp4 --codec=h264 --crf=16"
   },

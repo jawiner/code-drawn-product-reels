@@ -1,0 +1,37 @@
+{
+  "title": "starter",
+  "aspect": "9:16",
+  "mode": "motion",
+  "voiceId": "HjnCa0x8VgfBjy158Gpj",
+  "pace": "normal",
+  "scenes": [
+    {
+      "id": "hook",
+      "narration": "No camera and no footage. So how was this film made?"
+    },
+    {
+      "id": "story",
+      "narration": "First the story: a hook on the first frame, one thing to follow, and every line approved word for word."
+    },
+    {
+      "id": "voice",
+      "narration": "Then an AI voice reads it, and every word gets a time, so the picture lands on the word."
+    },
+    {
+      "id": "music",
+      "narration": "The music is cut on the beat, so its strongest bar hits the payoff."
+    },
+    {
+      "id": "checks",
+      "narration": "And before anyone sees it, a blind transcript checks that every line made it in."
+    },
+    {
+      "id": "payoff",
+      "narration": "That's how: one story, a moving camera, and not a single frame filmed."
+    },
+    {
+      "id": "close",
+      "narration": "Now tell your own story, one line at a time."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "voice": "Sulafat",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Calm, warm, confident narrator for a short film about how a video is made, speaking to people who make things. Natural and friendly, never salesy. The opening question is curious and light. Then steady and clear, one step at a time, with short pauses at commas. The last line is slower and lands softly.",
+  "spoken": {}
+}

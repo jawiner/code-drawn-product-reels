@@ -4,8 +4,8 @@ The voice is recorded in voice/<film>/ (a Reelkit-style project: plan.json + gem
 reads src/<film>/voice.json (every line's text, length and word times) and plays public/<film>/vo-<scene>.mp3.
 voiceovers.json may still hold lines from older versions of the script, so only the scenes in plan.json are copied.
 
+    python tools/sync_voice.py starter
     python tools/sync_voice.py receptionist
-    python tools/sync_voice.py leadflow
 """
 import json
 import shutil

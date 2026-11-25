@@ -2,7 +2,8 @@
 
 Both films were made in Claude Code over two days (24 and 25 November 2026), with the product owner approving each
 step in writing. This is what happened, in order, including the cut that was rejected. The method behind it is in
-[`skills/code-drawn-product-reel/SKILL.md`](skills/code-drawn-product-reel/SKILL.md).
+[`skills/code-drawn-reel/SKILL.md`](skills/code-drawn-reel/SKILL.md). To make a film of your own about anything, start
+from the starter film instead (README, "Make your own film").
 
 ## The rules both films followed
 

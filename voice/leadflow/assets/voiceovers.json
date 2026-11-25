@@ -1,0 +1,988 @@
+{
+  "hook": {
+    "key": "assets/vo-hook.mp3",
+    "durationSec": 4.128,
+    "words": [
+      {
+        "word": "איך",
+        "startSec": 0.0,
+        "endSec": 0.18
+      },
+      {
+        "word": "דנה",
+        "startSec": 0.18,
+        "endSec": 0.44
+      },
+      {
+        "word": "הפכה",
+        "startSec": 0.44,
+        "endSec": 0.88
+      },
+      {
+        "word": "מעסק",
+        "startSec": 0.88,
+        "endSec": 1.5
+      },
+      {
+        "word": "שמצאתם",
+        "startSec": 1.5,
+        "endSec": 2.04
+      },
+      {
+        "word": "על",
+        "startSec": 2.04,
+        "endSec": 2.16
+      },
+      {
+        "word": "המפה",
+        "startSec": 2.16,
+        "endSec": 2.636
+      },
+      {
+        "word": "ללקוחה",
+        "startSec": 2.941,
+        "endSec": 3.46
+      },
+      {
+        "word": "שלכם?",
+        "startSec": 3.46,
+        "endSec": 3.988
+      }
+    ],
+    "text": "איך דנה הפכה מעסק שמצאתם על המפה ללקוחה שלכם?",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "scan": {
+    "key": "assets/vo-scan.mp3",
+    "durationSec": 5.722,
+    "words": [
+      {
+        "word": "אתם",
+        "startSec": 0.06,
+        "endSec": 0.288
+      },
+      {
+        "word": "בוחרים",
+        "startSec": 0.288,
+        "endSec": 0.728
+      },
+      {
+        "word": "סוג",
+        "startSec": 0.728,
+        "endSec": 1.108
+      },
+      {
+        "word": "עסק",
+        "startSec": 1.108,
+        "endSec": 1.528
+      },
+      {
+        "word": "ועיר,",
+        "startSec": 1.528,
+        "endSec": 2.004
+      },
+      {
+        "word": "והחיפוש",
+        "startSec": 2.364,
+        "endSec": 2.848
+      },
+      {
+        "word": "בגוגל",
+        "startSec": 2.848,
+        "endSec": 3.248
+      },
+      {
+        "word": "מפות",
+        "startSec": 3.248,
+        "endSec": 3.628
+      },
+      {
+        "word": "רץ",
+        "startSec": 3.628,
+        "endSec": 3.948
+      },
+      {
+        "word": "בשבילכם",
+        "startSec": 3.948,
+        "endSec": 4.608
+      },
+      {
+        "word": "כל",
+        "startSec": 4.608,
+        "endSec": 5.048
+      },
+      {
+        "word": "יום.",
+        "startSec": 5.048,
+        "endSec": 5.582
+      }
+    ],
+    "text": "אתם בוחרים סוג עסק ועיר, והחיפוש בגוגל מפות רץ בשבילכם כל יום.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-115721.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "fresh": {
+    "key": "assets/vo-fresh.mp3",
+    "durationSec": 5.807,
+    "words": [
+      {
+        "word": "מי",
+        "startSec": 0.06,
+        "endSec": 0.506
+      },
+      {
+        "word": "שכבר",
+        "startSec": 0.506,
+        "endSec": 0.766
+      },
+      {
+        "word": "אצלכם",
+        "startSec": 0.766,
+        "endSec": 1.246
+      },
+      {
+        "word": "מדולג,",
+        "startSec": 1.266,
+        "endSec": 1.866
+      },
+      {
+        "word": "והחדשים",
+        "startSec": 2.126,
+        "endSec": 2.926
+      },
+      {
+        "word": "נכנסים",
+        "startSec": 2.926,
+        "endSec": 3.566
+      },
+      {
+        "word": "ללוח",
+        "startSec": 3.566,
+        "endSec": 4.094
+      },
+      {
+        "word": "עם",
+        "startSec": 4.321,
+        "endSec": 4.466
+      },
+      {
+        "word": "טלפון",
+        "startSec": 4.466,
+        "endSec": 5.026
+      },
+      {
+        "word": "ודירוג.",
+        "startSec": 5.026,
+        "endSec": 5.667
+      }
+    ],
+    "text": "מי שכבר אצלכם מדולג, והחדשים נכנסים ללוח עם טלפון ודירוג.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-115721.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "call": {
+    "key": "assets/vo-call.mp3",
+    "durationSec": 4.278,
+    "words": [
+      {
+        "word": "פותחים",
+        "startSec": 0.06,
+        "endSec": 0.68
+      },
+      {
+        "word": "את",
+        "startSec": 0.68,
+        "endSec": 0.8
+      },
+      {
+        "word": "הכרטיס",
+        "startSec": 0.8,
+        "endSec": 1.16
+      },
+      {
+        "word": "של",
+        "startSec": 1.16,
+        "endSec": 1.34
+      },
+      {
+        "word": "דנה.",
+        "startSec": 1.34,
+        "endSec": 1.687
+      },
+      {
+        "word": "ליד",
+        "startSec": 2.173,
+        "endSec": 2.4
+      },
+      {
+        "word": "המספר",
+        "startSec": 2.4,
+        "endSec": 2.82
+      },
+      {
+        "word": "כבר",
+        "startSec": 2.82,
+        "endSec": 3.16
+      },
+      {
+        "word": "כתוב",
+        "startSec": 3.16,
+        "endSec": 3.52
+      },
+      {
+        "word": "מה",
+        "startSec": 3.52,
+        "endSec": 3.68
+      },
+      {
+        "word": "להגיד.",
+        "startSec": 3.68,
+        "endSec": 4.138
+      }
+    ],
+    "text": "פותחים את הכרטיס של דנה. ליד המספר כבר כתוב מה להגיד.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-115721.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "after": {
+    "key": "assets/vo-after.mp3",
+    "durationSec": 4.767,
+    "words": [
+      {
+        "word": "דנה",
+        "startSec": 0.06,
+        "endSec": 0.62
+      },
+      {
+        "word": "ביקשה",
+        "startSec": 0.62,
+        "endSec": 0.94
+      },
+      {
+        "word": "שתחזרו",
+        "startSec": 0.94,
+        "endSec": 1.52
+      },
+      {
+        "word": "ביום",
+        "startSec": 1.52,
+        "endSec": 1.8
+      },
+      {
+        "word": "שלישי.",
+        "startSec": 1.8,
+        "endSec": 2.222
+      },
+      {
+        "word": "קובעים",
+        "startSec": 2.556,
+        "endSec": 2.84
+      },
+      {
+        "word": "תזכורת,",
+        "startSec": 2.84,
+        "endSec": 3.54
+      },
+      {
+        "word": "באותו",
+        "startSec": 3.874,
+        "endSec": 4.16
+      },
+      {
+        "word": "מסך.",
+        "startSec": 4.16,
+        "endSec": 4.627
+      }
+    ],
+    "text": "דנה ביקשה שתחזרו ביום שלישי. קובעים תזכורת, באותו מסך.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-115721.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "today": {
+    "key": "assets/vo-today.mp3",
+    "durationSec": 5.339,
+    "words": [
+      {
+        "word": "בבוקר",
+        "startSec": 0.06,
+        "endSec": 0.568
+      },
+      {
+        "word": "דנה",
+        "startSec": 0.568,
+        "endSec": 1.048
+      },
+      {
+        "word": "ברשימה",
+        "startSec": 1.048,
+        "endSec": 1.588
+      },
+      {
+        "word": "של",
+        "startSec": 1.588,
+        "endSec": 1.768
+      },
+      {
+        "word": "היום,",
+        "startSec": 1.768,
+        "endSec": 2.179
+      },
+      {
+        "word": "ובעשר",
+        "startSec": 2.464,
+        "endSec": 2.888
+      },
+      {
+        "word": "מגיעה",
+        "startSec": 2.888,
+        "endSec": 3.288
+      },
+      {
+        "word": "תזכורת",
+        "startSec": 3.288,
+        "endSec": 3.688
+      },
+      {
+        "word": "בטלגרם",
+        "startSec": 3.688,
+        "endSec": 4.308
+      },
+      {
+        "word": "עם",
+        "startSec": 4.308,
+        "endSec": 4.648
+      },
+      {
+        "word": "מה",
+        "startSec": 4.648,
+        "endSec": 4.748
+      },
+      {
+        "word": "להגיד.",
+        "startSec": 4.748,
+        "endSec": 5.199
+      }
+    ],
+    "text": "בבוקר דנה ברשימה של היום, ובעשר מגיעה תזכורת בטלגרם עם מה להגיד.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "telegram": {
+    "key": "assets/vo-telegram.mp3",
+    "durationSec": 5.628,
+    "words": [
+      {
+        "word": "בשלישי",
+        "startSec": 0.06,
+        "endSec": 0.84
+      },
+      {
+        "word": "בעשר",
+        "startSec": 0.84,
+        "endSec": 0.96
+      },
+      {
+        "word": "מגיעה",
+        "startSec": 1.22,
+        "endSec": 1.88
+      },
+      {
+        "word": "תזכורת",
+        "startSec": 1.88,
+        "endSec": 2.3
+      },
+      {
+        "word": "בטלגרם,",
+        "startSec": 2.3,
+        "endSec": 2.937
+      },
+      {
+        "word": "עם",
+        "startSec": 3.292,
+        "endSec": 3.46
+      },
+      {
+        "word": "ההערות",
+        "startSec": 3.46,
+        "endSec": 3.88
+      },
+      {
+        "word": "שלכם",
+        "startSec": 3.88,
+        "endSec": 4.422
+      },
+      {
+        "word": "ומשפט",
+        "startSec": 4.709,
+        "endSec": 5.12
+      },
+      {
+        "word": "פתיחה.",
+        "startSec": 5.12,
+        "endSec": 5.488
+      }
+    ],
+    "text": "בשלישי בעשר מגיעה תזכורת בטלגרם, עם ההערות שלכם ומשפט פתיחה.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-115721.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "quote": {
+    "key": "assets/vo-quote.mp3",
+    "durationSec": 5.9,
+    "words": [
+      {
+        "word": "דנה",
+        "startSec": 0.0,
+        "endSec": 0.38
+      },
+      {
+        "word": "רוצה",
+        "startSec": 0.38,
+        "endSec": 0.84
+      },
+      {
+        "word": "הצעה?",
+        "startSec": 0.84,
+        "endSec": 1.272
+      },
+      {
+        "word": "מסמנים",
+        "startSec": 1.882,
+        "endSec": 2.32
+      },
+      {
+        "word": "פריטים",
+        "startSec": 2.32,
+        "endSec": 2.72
+      },
+      {
+        "word": "מהמחירון",
+        "startSec": 2.72,
+        "endSec": 3.28
+      },
+      {
+        "word": "שלכם,",
+        "startSec": 3.28,
+        "endSec": 3.8
+      },
+      {
+        "word": "והסכום",
+        "startSec": 3.86,
+        "endSec": 4.66
+      },
+      {
+        "word": "מחושב",
+        "startSec": 4.66,
+        "endSec": 5.34
+      },
+      {
+        "word": "לבד.",
+        "startSec": 5.34,
+        "endSec": 5.76
+      }
+    ],
+    "text": "דנה רוצה הצעה? מסמנים פריטים מהמחירון שלכם, והסכום מחושב לבד.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-quote-20261125-120256.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "payoff": {
+    "key": "assets/vo-payoff.mp3",
+    "durationSec": 4.106,
+    "words": [
+      {
+        "word": "מוצאים,",
+        "startSec": 0.06,
+        "endSec": 0.704
+      },
+      {
+        "word": "מתקשרים,",
+        "startSec": 0.941,
+        "endSec": 1.572
+      },
+      {
+        "word": "חוזרים",
+        "startSec": 1.832,
+        "endSec": 2.252
+      },
+      {
+        "word": "בזמן",
+        "startSec": 2.252,
+        "endSec": 2.772
+      },
+      {
+        "word": "ושולחים",
+        "startSec": 2.772,
+        "endSec": 3.532
+      },
+      {
+        "word": "הצעה.",
+        "startSec": 3.532,
+        "endSec": 3.966
+      }
+    ],
+    "text": "מוצאים, מתקשרים, חוזרים בזמן ושולחים הצעה.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-115721.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "close": {
+    "key": "assets/vo-close.mp3",
+    "durationSec": 4.559,
+    "words": [
+      {
+        "word": "ככה",
+        "startSec": 0.06,
+        "endSec": 0.568
+      },
+      {
+        "word": "אתם",
+        "startSec": 0.568,
+        "endSec": 0.768
+      },
+      {
+        "word": "יודעים",
+        "startSec": 0.768,
+        "endSec": 1.108
+      },
+      {
+        "word": "למי",
+        "startSec": 1.108,
+        "endSec": 1.528
+      },
+      {
+        "word": "לחזור,",
+        "startSec": 1.528,
+        "endSec": 2.013
+      },
+      {
+        "word": "מה",
+        "startSec": 2.291,
+        "endSec": 2.408
+      },
+      {
+        "word": "להגיד,",
+        "startSec": 2.408,
+        "endSec": 2.862
+      },
+      {
+        "word": "ואיפה",
+        "startSec": 3.191,
+        "endSec": 3.508
+      },
+      {
+        "word": "כל",
+        "startSec": 3.508,
+        "endSec": 3.668
+      },
+      {
+        "word": "פנייה",
+        "startSec": 3.668,
+        "endSec": 3.948
+      },
+      {
+        "word": "עומדת.",
+        "startSec": 3.948,
+        "endSec": 4.419
+      }
+    ],
+    "text": "ככה אתם יודעים למי לחזור, מה להגיד, ואיפה כל פנייה עומדת.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "lab": {
+    "key": "assets/vo-lab.mp3",
+    "durationSec": 4.704,
+    "words": [
+      {
+        "word": "קודם",
+        "startSec": 0.06,
+        "endSec": 0.322
+      },
+      {
+        "word": "מתרגלים",
+        "startSec": 0.322,
+        "endSec": 0.722
+      },
+      {
+        "word": "את",
+        "startSec": 0.722,
+        "endSec": 0.882
+      },
+      {
+        "word": "השיחה",
+        "startSec": 0.882,
+        "endSec": 1.222
+      },
+      {
+        "word": "מול",
+        "startSec": 1.222,
+        "endSec": 1.442
+      },
+      {
+        "word": "AI",
+        "startSec": 1.442,
+        "endSec": 1.702
+      },
+      {
+        "word": "שמשחק",
+        "startSec": 1.702,
+        "endSec": 2.482
+      },
+      {
+        "word": "את",
+        "startSec": 2.482,
+        "endSec": 2.582
+      },
+      {
+        "word": "בעלת",
+        "startSec": 2.582,
+        "endSec": 2.882
+      },
+      {
+        "word": "העסק,",
+        "startSec": 2.882,
+        "endSec": 3.375
+      },
+      {
+        "word": "ומקבלים",
+        "startSec": 3.696,
+        "endSec": 4.102
+      },
+      {
+        "word": "ציון.",
+        "startSec": 4.102,
+        "endSec": 4.564
+      }
+    ],
+    "text": "קודם מתרגלים את השיחה מול AI שמשחק את בעלת העסק, ומקבלים ציון.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "email": {
+    "key": "assets/vo-email.mp3",
+    "durationSec": 2.802,
+    "words": [
+      {
+        "word": "מייל",
+        "startSec": 0.06,
+        "endSec": 0.54
+      },
+      {
+        "word": "הפתיחה",
+        "startSec": 0.54,
+        "endSec": 0.88
+      },
+      {
+        "word": "כבר",
+        "startSec": 0.88,
+        "endSec": 1.06
+      },
+      {
+        "word": "כתוב,",
+        "startSec": 1.06,
+        "endSec": 1.44
+      },
+      {
+        "word": "לפי",
+        "startSec": 1.46,
+        "endSec": 1.86
+      },
+      {
+        "word": "פרטי",
+        "startSec": 1.86,
+        "endSec": 2.16
+      },
+      {
+        "word": "הסטודיו.",
+        "startSec": 2.16,
+        "endSec": 2.662
+      }
+    ],
+    "text": "מייל הפתיחה כבר כתוב, לפי פרטי הסטודיו.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "message": {
+    "key": "assets/vo-message.mp3",
+    "durationSec": 3.601,
+    "words": [
+      {
+        "word": "היא",
+        "startSec": 0.06,
+        "endSec": 0.14
+      },
+      {
+        "word": "ענתה",
+        "startSec": 0.14,
+        "endSec": 0.397
+      },
+      {
+        "word": "ומעוניינת?",
+        "startSec": 0.397,
+        "endSec": 0.997
+      },
+      {
+        "word": "שולחים",
+        "startSec": 0.997,
+        "endSec": 1.677
+      },
+      {
+        "word": "לה",
+        "startSec": 1.677,
+        "endSec": 1.777
+      },
+      {
+        "word": "הודעה",
+        "startSec": 1.777,
+        "endSec": 2.077
+      },
+      {
+        "word": "בוואטסאפ,",
+        "startSec": 2.077,
+        "endSec": 2.557
+      },
+      {
+        "word": "ישר",
+        "startSec": 2.557,
+        "endSec": 2.837
+      },
+      {
+        "word": "מהמסך.",
+        "startSec": 2.837,
+        "endSec": 3.461
+      }
+    ],
+    "text": "היא ענתה ומעוניינת? שולחים לה הודעה בוואטסאפ, ישר מהמסך.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "prep": {
+    "key": "assets/vo-prep.mp3",
+    "durationSec": 5.653,
+    "words": [
+      {
+        "word": "לפני",
+        "startSec": 0.06,
+        "endSec": 0.306
+      },
+      {
+        "word": "הפגישה,",
+        "startSec": 0.306,
+        "endSec": 0.766
+      },
+      {
+        "word": "ה־AI",
+        "startSec": 1.126,
+        "endSec": 1.486
+      },
+      {
+        "word": "משתמש",
+        "startSec": 1.486,
+        "endSec": 1.966
+      },
+      {
+        "word": "במה",
+        "startSec": 1.966,
+        "endSec": 2.246
+      },
+      {
+        "word": "שכבר",
+        "startSec": 2.246,
+        "endSec": 2.506
+      },
+      {
+        "word": "סיפרה",
+        "startSec": 2.506,
+        "endSec": 2.826
+      },
+      {
+        "word": "לכם",
+        "startSec": 2.826,
+        "endSec": 3.106
+      },
+      {
+        "word": "דנה",
+        "startSec": 3.106,
+        "endSec": 3.398
+      },
+      {
+        "word": "כדי",
+        "startSec": 3.656,
+        "endSec": 3.786
+      },
+      {
+        "word": "להכין",
+        "startSec": 3.786,
+        "endSec": 4.086
+      },
+      {
+        "word": "שאלות",
+        "startSec": 4.086,
+        "endSec": 4.586
+      },
+      {
+        "word": "ותוכנית",
+        "startSec": 4.586,
+        "endSec": 5.066
+      },
+      {
+        "word": "לפגישה.",
+        "startSec": 5.066,
+        "endSec": 5.513
+      }
+    ],
+    "text": "לפני הפגישה, ה־AI משתמש במה שכבר סיפרה לכם דנה כדי להכין שאלות ותוכנית לפגישה.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "report": {
+    "key": "assets/vo-report.mp3",
+    "durationSec": 5.738,
+    "words": [
+      {
+        "word": "שולחים",
+        "startSec": 0.06,
+        "endSec": 0.395
+      },
+      {
+        "word": "הצעה,",
+        "startSec": 0.395,
+        "endSec": 0.855
+      },
+      {
+        "word": "ובסוף",
+        "startSec": 0.995,
+        "endSec": 1.615
+      },
+      {
+        "word": "היום",
+        "startSec": 1.615,
+        "endSec": 1.815
+      },
+      {
+        "word": "מגיע",
+        "startSec": 1.815,
+        "endSec": 2.095
+      },
+      {
+        "word": "דוח:",
+        "startSec": 2.095,
+        "endSec": 2.48
+      },
+      {
+        "word": "כמה",
+        "startSec": 2.743,
+        "endSec": 2.915
+      },
+      {
+        "word": "שיחות,",
+        "startSec": 2.915,
+        "endSec": 3.374
+      },
+      {
+        "word": "מי",
+        "startSec": 3.64,
+        "endSec": 3.855
+      },
+      {
+        "word": "ענה,",
+        "startSec": 3.855,
+        "endSec": 4.145
+      },
+      {
+        "word": "ומה",
+        "startSec": 4.459,
+        "endSec": 4.635
+      },
+      {
+        "word": "כדאי",
+        "startSec": 4.635,
+        "endSec": 4.915
+      },
+      {
+        "word": "לעשות",
+        "startSec": 4.915,
+        "endSec": 5.195
+      },
+      {
+        "word": "מחר.",
+        "startSec": 5.195,
+        "endSec": 5.598
+      }
+    ],
+    "text": "שולחים הצעה, ובסוף היום מגיע דוח: כמה שיחות, מי ענה, ומה כדאי לעשות מחר.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "won": {
+    "key": "assets/vo-won.mp3",
+    "durationSec": 2.676,
+    "words": [
+      {
+        "word": "דנה",
+        "startSec": 0.06,
+        "endSec": 0.295
+      },
+      {
+        "word": "סוגרת,",
+        "startSec": 0.295,
+        "endSec": 0.755
+      },
+      {
+        "word": "והפרויקט",
+        "startSec": 0.795,
+        "endSec": 1.675
+      },
+      {
+        "word": "שלה",
+        "startSec": 1.675,
+        "endSec": 1.855
+      },
+      {
+        "word": "כבר",
+        "startSec": 1.855,
+        "endSec": 2.055
+      },
+      {
+        "word": "פתוח.",
+        "startSec": 2.055,
+        "endSec": 2.536
+      }
+    ],
+    "text": "דנה סוגרת, והפרויקט שלה כבר פתוח.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261125-140724.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "voice": "Sulafat",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Calm, warm, confident modern Israeli Hebrew narrator for a premium software product, speaking to small business owners (garages, clinics, shops) who are busy with their hands all day. Natural, friendly and reassuring, never salesy, never like an advert. The opening is a knowing question, asked with a light, empathetic smile, one busy person to another. Then steady and clear, like explaining something simple that works. Measured, unhurried pace with crisp articulation of every word, short pauses at commas, so every word is clear on a phone speaker. In the sentence about booking, the word כן is a quoted word, as in 'after a clear yes': give it a tiny beat before it and a light stress on it, then 'ברור' right after. The last two lines are slower, warm and settled, and the final line lands softly. In 'מי הִתְקַשֵּׁר' (past tense, 'who called') say the h clearly: hit-ka-SHER, never 'yitkasher'. In the WhatsApp line, 'גַּם לוֹ' ends with a clear O and a tiny pause, then 'הִיא עוֹנָה' with a clear H: it must never sound like 'גם לא'.",
+  "spoken": {
+    "callback": "שואלת מה צריך ומתי נוח לחזור, וּמַקְרִיאָה את המספר, סִפְרָה אַחַר סִפְרָה.",
+    "book": "ובחבילת היומן היא גם קובעת תור, רק בשעה פנויה, ורק אחרי \"כֵּן\" בָּרוּר.",
+    "rules": "מחיר בשמכם היא לא מַבְטִיחָה, ואם שואלים, היא אומרת שהיא מְמֻחְשֶׁבֶת.",
+    "log": "עכשיו אתם רואים מי הִתְקַשֵּׁר, מה הוא צריך, ומתי לחזור אליו.",
+    "review": "שעתיים אחרי התור, היא שולחת לַלָּקוֹחַ קישור לְבִקֹּרֶת בְּגוּגְל.",
+    "weekly": "וּבִתְחִלַּת כל שבוע מְחַכֶּה לכם בוואטסאפ סיכום של השבוע שֶׁעָבַר.",
+    "whatsapp": "וּמִי שֶׁכּוֹתֵב לָעֵסֶק בְּוָואטְסְאַפּ? גַּם לוֹ... הִיא עוֹנָה, מֵאוֹתָם פְּרָטִים."
+  }
+}

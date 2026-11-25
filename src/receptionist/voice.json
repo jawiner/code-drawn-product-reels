@@ -1,0 +1,689 @@
+{
+  "hook": {
+    "key": "assets/vo-hook.mp3",
+    "durationSec": 2.941,
+    "words": [
+      {
+        "word": "כשאתם",
+        "startSec": 0.06,
+        "endSec": 0.379
+      },
+      {
+        "word": "באמצע",
+        "startSec": 0.379,
+        "endSec": 0.719
+      },
+      {
+        "word": "עבודה,",
+        "startSec": 0.719,
+        "endSec": 1.202
+      },
+      {
+        "word": "מי",
+        "startSec": 1.654,
+        "endSec": 1.799
+      },
+      {
+        "word": "יודע",
+        "startSec": 1.799,
+        "endSec": 1.959
+      },
+      {
+        "word": "מה",
+        "startSec": 1.959,
+        "endSec": 2.159
+      },
+      {
+        "word": "פספסתם?",
+        "startSec": 2.159,
+        "endSec": 2.801
+      }
+    ],
+    "text": "כשאתם באמצע עבודה, מי יודע מה פספסתם?",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "ring": {
+    "key": "assets/vo-ring.mp3",
+    "durationSec": 3.191,
+    "words": [
+      {
+        "word": "אחרי",
+        "startSec": 0.06,
+        "endSec": 0.44
+      },
+      {
+        "word": "עשרים",
+        "startSec": 0.44,
+        "endSec": 0.88
+      },
+      {
+        "word": "שניות",
+        "startSec": 0.88,
+        "endSec": 1.24
+      },
+      {
+        "word": "בלי",
+        "startSec": 1.24,
+        "endSec": 1.46
+      },
+      {
+        "word": "מענה,",
+        "startSec": 1.46,
+        "endSec": 1.884
+      },
+      {
+        "word": "השיחה",
+        "startSec": 2.132,
+        "endSec": 2.46
+      },
+      {
+        "word": "עוברת",
+        "startSec": 2.46,
+        "endSec": 2.74
+      },
+      {
+        "word": "אליה.",
+        "startSec": 2.74,
+        "endSec": 3.051
+      }
+    ],
+    "text": "אחרי עשרים שניות בלי מענה, השיחה עוברת אליה.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "answer": {
+    "key": "assets/vo-answer.mp3",
+    "durationSec": 5.406,
+    "words": [
+      {
+        "word": "היא",
+        "startSec": 0.06,
+        "endSec": 0.186
+      },
+      {
+        "word": "עונה",
+        "startSec": 0.186,
+        "endSec": 0.346
+      },
+      {
+        "word": "בעברית,",
+        "startSec": 0.346,
+        "endSec": 0.906
+      },
+      {
+        "word": "ורק",
+        "startSec": 0.906,
+        "endSec": 1.646
+      },
+      {
+        "word": "ממה",
+        "startSec": 1.646,
+        "endSec": 1.906
+      },
+      {
+        "word": "שכתבתם",
+        "startSec": 1.906,
+        "endSec": 2.486
+      },
+      {
+        "word": "לה:",
+        "startSec": 2.486,
+        "endSec": 2.566
+      },
+      {
+        "word": "שעות,",
+        "startSec": 2.566,
+        "endSec": 2.646
+      },
+      {
+        "word": "שירותים,",
+        "startSec": 3.546,
+        "endSec": 4.206
+      },
+      {
+        "word": "שאלות",
+        "startSec": 4.464,
+        "endSec": 4.766
+      },
+      {
+        "word": "נפוצות.",
+        "startSec": 4.766,
+        "endSec": 5.266
+      }
+    ],
+    "text": "היא עונה בעברית, ורק ממה שכתבתם לה: שעות, שירותים, שאלות נפוצות.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "callback": {
+    "key": "assets/vo-callback.mp3",
+    "durationSec": 5.67,
+    "words": [
+      {
+        "word": "שואלת",
+        "startSec": 0.06,
+        "endSec": 0.76
+      },
+      {
+        "word": "מה",
+        "startSec": 0.76,
+        "endSec": 0.9
+      },
+      {
+        "word": "צריך",
+        "startSec": 0.9,
+        "endSec": 1.34
+      },
+      {
+        "word": "ומתי",
+        "startSec": 1.34,
+        "endSec": 1.88
+      },
+      {
+        "word": "נוח",
+        "startSec": 1.88,
+        "endSec": 2.12
+      },
+      {
+        "word": "לחזור,",
+        "startSec": 2.12,
+        "endSec": 2.587
+      },
+      {
+        "word": "ומקריאה",
+        "startSec": 2.849,
+        "endSec": 3.36
+      },
+      {
+        "word": "את",
+        "startSec": 3.36,
+        "endSec": 3.48
+      },
+      {
+        "word": "המספר",
+        "startSec": 3.48,
+        "endSec": 4.043
+      },
+      {
+        "word": "ספרה",
+        "startSec": 4.36,
+        "endSec": 4.74
+      },
+      {
+        "word": "אחר",
+        "startSec": 4.74,
+        "endSec": 5.16
+      },
+      {
+        "word": "ספרה.",
+        "startSec": 5.16,
+        "endSec": 5.53
+      }
+    ],
+    "text": "שואלת מה צריך ומתי נוח לחזור, ומקריאה את המספר ספרה אחר ספרה.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "book": {
+    "key": "assets/vo-book.mp3",
+    "durationSec": 5.466,
+    "words": [
+      {
+        "word": "ובחבילת",
+        "startSec": 0.06,
+        "endSec": 0.82
+      },
+      {
+        "word": "היומן",
+        "startSec": 0.82,
+        "endSec": 1.22
+      },
+      {
+        "word": "היא",
+        "startSec": 1.22,
+        "endSec": 1.52
+      },
+      {
+        "word": "גם",
+        "startSec": 1.52,
+        "endSec": 1.68
+      },
+      {
+        "word": "קובעת",
+        "startSec": 1.68,
+        "endSec": 2.03
+      },
+      {
+        "word": "תור,",
+        "startSec": 2.137,
+        "endSec": 2.382
+      },
+      {
+        "word": "רק",
+        "startSec": 2.612,
+        "endSec": 2.86
+      },
+      {
+        "word": "בשעה",
+        "startSec": 2.86,
+        "endSec": 3.2
+      },
+      {
+        "word": "פנויה",
+        "startSec": 3.2,
+        "endSec": 3.56
+      },
+      {
+        "word": "ורק",
+        "startSec": 3.56,
+        "endSec": 4.06
+      },
+      {
+        "word": "אחרי",
+        "startSec": 4.06,
+        "endSec": 4.4
+      },
+      {
+        "word": "כן",
+        "startSec": 4.4,
+        "endSec": 4.78
+      },
+      {
+        "word": "ברור.",
+        "startSec": 4.78,
+        "endSec": 5.326
+      }
+    ],
+    "text": "ובחבילת היומן היא גם קובעת תור, רק בשעה פנויה ורק אחרי כן ברור.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "whatsapp": {
+    "key": "assets/vo-whatsapp.mp3",
+    "durationSec": 4.832,
+    "words": [
+      {
+        "word": "ומי",
+        "startSec": 0.06,
+        "endSec": 0.313
+      },
+      {
+        "word": "שכותב",
+        "startSec": 0.313,
+        "endSec": 0.753
+      },
+      {
+        "word": "לעסק",
+        "startSec": 0.753,
+        "endSec": 1.113
+      },
+      {
+        "word": "בוואטסאפ?",
+        "startSec": 1.113,
+        "endSec": 1.844
+      },
+      {
+        "word": "גם",
+        "startSec": 2.221,
+        "endSec": 2.453
+      },
+      {
+        "word": "לו",
+        "startSec": 2.453,
+        "endSec": 2.695
+      },
+      {
+        "word": "היא",
+        "startSec": 2.912,
+        "endSec": 3.093
+      },
+      {
+        "word": "עונה,",
+        "startSec": 3.093,
+        "endSec": 3.417
+      },
+      {
+        "word": "מאותם",
+        "startSec": 3.82,
+        "endSec": 4.213
+      },
+      {
+        "word": "פרטים.",
+        "startSec": 4.213,
+        "endSec": 4.692
+      }
+    ],
+    "text": "ומי שכותב לעסק בוואטסאפ? גם לו היא עונה, מאותם פרטים.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-whatsapp-20261124-222850.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "review": {
+    "key": "assets/vo-review.mp3",
+    "durationSec": 4.521,
+    "words": [
+      {
+        "word": "שעתיים",
+        "startSec": 0.06,
+        "endSec": 0.543
+      },
+      {
+        "word": "אחרי",
+        "startSec": 0.543,
+        "endSec": 0.823
+      },
+      {
+        "word": "התור,",
+        "startSec": 0.823,
+        "endSec": 1.212
+      },
+      {
+        "word": "היא",
+        "startSec": 1.65,
+        "endSec": 1.743
+      },
+      {
+        "word": "שולחת",
+        "startSec": 1.743,
+        "endSec": 2.163
+      },
+      {
+        "word": "ללקוח",
+        "startSec": 2.163,
+        "endSec": 2.623
+      },
+      {
+        "word": "קישור",
+        "startSec": 2.623,
+        "endSec": 3.163
+      },
+      {
+        "word": "לביקורת",
+        "startSec": 3.163,
+        "endSec": 3.843
+      },
+      {
+        "word": "בגוגל.",
+        "startSec": 3.843,
+        "endSec": 4.381
+      }
+    ],
+    "text": "שעתיים אחרי התור, היא שולחת ללקוח קישור לביקורת בגוגל.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-review-20261124-222538.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "rules": {
+    "key": "assets/vo-rules.mp3",
+    "durationSec": 3.989,
+    "words": [
+      {
+        "word": "מחיר",
+        "startSec": 0.06,
+        "endSec": 0.298
+      },
+      {
+        "word": "בשמכם",
+        "startSec": 0.298,
+        "endSec": 0.758
+      },
+      {
+        "word": "היא",
+        "startSec": 0.758,
+        "endSec": 0.878
+      },
+      {
+        "word": "לא",
+        "startSec": 0.878,
+        "endSec": 1.018
+      },
+      {
+        "word": "מבטיחה,",
+        "startSec": 1.018,
+        "endSec": 1.499
+      },
+      {
+        "word": "ואם",
+        "startSec": 1.764,
+        "endSec": 1.958
+      },
+      {
+        "word": "שואלים,",
+        "startSec": 1.958,
+        "endSec": 2.468
+      },
+      {
+        "word": "היא",
+        "startSec": 2.671,
+        "endSec": 2.758
+      },
+      {
+        "word": "אומרת",
+        "startSec": 2.758,
+        "endSec": 3.038
+      },
+      {
+        "word": "שהיא",
+        "startSec": 3.038,
+        "endSec": 3.218
+      },
+      {
+        "word": "ממוחשבת.",
+        "startSec": 3.218,
+        "endSec": 3.849
+      }
+    ],
+    "text": "מחיר בשמכם היא לא מבטיחה, ואם שואלים, היא אומרת שהיא ממוחשבת.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "log": {
+    "key": "assets/vo-log.mp3",
+    "durationSec": 4.462,
+    "words": [
+      {
+        "word": "עכשיו",
+        "startSec": 0.06,
+        "endSec": 0.313
+      },
+      {
+        "word": "אתם",
+        "startSec": 0.313,
+        "endSec": 0.573
+      },
+      {
+        "word": "רואים",
+        "startSec": 0.573,
+        "endSec": 0.913
+      },
+      {
+        "word": "מי",
+        "startSec": 0.913,
+        "endSec": 1.213
+      },
+      {
+        "word": "התקשר,",
+        "startSec": 1.213,
+        "endSec": 1.922
+      },
+      {
+        "word": "מה",
+        "startSec": 2.135,
+        "endSec": 2.273
+      },
+      {
+        "word": "הוא",
+        "startSec": 2.273,
+        "endSec": 2.393
+      },
+      {
+        "word": "צריך",
+        "startSec": 2.393,
+        "endSec": 2.853
+      },
+      {
+        "word": "ומתי",
+        "startSec": 2.853,
+        "endSec": 3.633
+      },
+      {
+        "word": "לחזור",
+        "startSec": 3.633,
+        "endSec": 3.993
+      },
+      {
+        "word": "אליו.",
+        "startSec": 3.993,
+        "endSec": 4.322
+      }
+    ],
+    "text": "עכשיו אתם רואים מי התקשר, מה הוא צריך ומתי לחזור אליו.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-log-20261124-165744.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "weekly": {
+    "key": "assets/vo-weekly.mp3",
+    "durationSec": 5.236,
+    "words": [
+      {
+        "word": "ובתחילת",
+        "startSec": 0.06,
+        "endSec": 0.731
+      },
+      {
+        "word": "כל",
+        "startSec": 0.731,
+        "endSec": 0.951
+      },
+      {
+        "word": "שבוע",
+        "startSec": 0.951,
+        "endSec": 1.594
+      },
+      {
+        "word": "מחכה",
+        "startSec": 1.813,
+        "endSec": 2.251
+      },
+      {
+        "word": "לכם",
+        "startSec": 2.251,
+        "endSec": 2.531
+      },
+      {
+        "word": "בוואטסאפ",
+        "startSec": 2.531,
+        "endSec": 3.051
+      },
+      {
+        "word": "סיכום",
+        "startSec": 3.171,
+        "endSec": 3.851
+      },
+      {
+        "word": "של",
+        "startSec": 3.851,
+        "endSec": 4.011
+      },
+      {
+        "word": "השבוע",
+        "startSec": 4.011,
+        "endSec": 4.471
+      },
+      {
+        "word": "שעבר.",
+        "startSec": 4.471,
+        "endSec": 5.096
+      }
+    ],
+    "text": "ובתחילת כל שבוע מחכה לכם בוואטסאפ סיכום של השבוע שעבר.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-weekly-20261124-222613.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "first": {
+    "key": "assets/vo-first.mp3",
+    "durationSec": 1.871,
+    "words": [
+      {
+        "word": "הטלפון",
+        "startSec": 0.06,
+        "endSec": 0.524
+      },
+      {
+        "word": "מצלצל",
+        "startSec": 0.524,
+        "endSec": 0.964
+      },
+      {
+        "word": "אצלכם",
+        "startSec": 0.964,
+        "endSec": 1.404
+      },
+      {
+        "word": "קודם.",
+        "startSec": 1.404,
+        "endSec": 1.731
+      }
+    ],
+    "text": "הטלפון מצלצל אצלכם קודם.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  },
+  "close": {
+    "key": "assets/vo-close.mp3",
+    "durationSec": 2.019,
+    "words": [
+      {
+        "word": "כשאתם",
+        "startSec": 0.06,
+        "endSec": 0.558
+      },
+      {
+        "word": "לא",
+        "startSec": 0.558,
+        "endSec": 0.658
+      },
+      {
+        "word": "יכולים,",
+        "startSec": 0.658,
+        "endSec": 1.154
+      },
+      {
+        "word": "היא",
+        "startSec": 1.482,
+        "endSec": 1.638
+      },
+      {
+        "word": "עונה.",
+        "startSec": 1.638,
+        "endSec": 1.879
+      }
+    ],
+    "text": "כשאתם לא יכולים, היא עונה.",
+    "speed": 1,
+    "source": "gemini:Sulafat",
+    "take": "take-all-20261124-165215.wav",
+    "voiceId": "HjnCa0x8VgfBjy158Gpj"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "voice": "Sulafat",
+  "model": "gemini-3.8-flash-tts",
+  "style": "Calm, warm, confident modern Israeli Hebrew narrator for a premium software product, speaking to people who sell for a living (freelancers, small agencies, sales reps, shop owners) and are busy all day. Natural, friendly and reassuring, never salesy, never like an advert. The opening is a curious, inviting question, asked with a light smile, as if about to tell a short success story. Then steady and clear, like walking a friend through one customer's story, one step at a time. Measured, unhurried pace with crisp articulation of every word and short pauses at commas, so every word is clear on a phone speaker. Say 'AI' the Israeli way, as two clear English letters, 'ey-ay'. Say the name Dana fully as two clear syllables, DA-na, with the final A clearly heard: it must never sound like 'Dan'. The question 'היא ענתה ומעוניינת?' is light and quick, then the answer follows at once. In the report line, the three items after the colon get a small, even beat between them. The last line is slower, warm and settled, and lands softly.",
+  "spoken": {
+    "hook": "אֵיךְ דָּנָה הָפְכָה, מֵעֵסֶק שֶׁמְּצָאתֶם עַל הַמַּפָּה, לִלְקוֹחָה שֶׁלָּכֶם?",
+    "lab": "קוֹדֶם מְתַרְגְּלִים אֶת הַשִּׂיחָה מוּל אֵיי־אַיי שֶׁמְּשַׂחֵק אֶת בַּעֲלַת הָעֵסֶק, וּמְקַבְּלִים צִיּוּן.",
+    "email": "מֵייל הַפְּתִיחָה כְּבָר כָּתוּב, לְפִי פִּרְטֵי הַסְּטוּדְיוֹ.",
+    "today": "בַּבֹּקֶר, דָּנָה בָּרְשִׁימָה שֶׁל הַיּוֹם, וּבְעֶשֶׂר מַגִּיעָה תִּזְכֹּרֶת בְּטֶלֶגְרָם, עִם מָה לְהַגִּיד.",
+    "message": "הִיא עָנְתָה וּמְעֻנְיֶנֶת? שׁוֹלְחִים לָהּ הוֹדָעָה בְּוָוטְסְאַפּ, יָשָׁר מֵהַמָּסָךְ.",
+    "prep": "לִפְנֵי הַפְּגִישָׁה, הָאֵיי־אַיי מִשְׁתַּמֵּשׁ בְּמָה שֶׁכְּבָר סִפְּרָה לָכֶם דָּנָה, כְּדֵי לְהָכִין שְׁאֵלוֹת וְתָכְנִית לַפְּגִישָׁה.",
+    "report": "שׁוֹלְחִים הַצָּעָה, וּבְסוֹף הַיּוֹם מַגִּיעַ דּוּחַ: כַּמָּה שִׂיחוֹת, מִי עָנָה, וּמָה כְּדַאי לַעֲשׂוֹת מָחָר.",
+    "won": "דָּנָה סוֹגֶרֶת, וְהַפְּרוֹיֶקְט שֶׁלָּהּ כְּבָר פָּתוּחַ.",
+    "close": "כָּכָה אַתֶּם יוֹדְעִים לְמִי לַחְזֹר, מָה לְהַגִּיד, וְאֵיפֹה כָּל פְּנִיָּה עוֹמֶדֶת."
+  }
+}

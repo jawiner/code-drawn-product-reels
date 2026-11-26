@@ -4,3 +4,6 @@ out/
 __pycache__/
 .venv-speech/
 voice/*/assets/voice-takes/*.wav
+# Music comes from the Reelkit library (tools/get_music.py), not from this repository
+public/*/bed.mp3
+public/*/track-source.mp3

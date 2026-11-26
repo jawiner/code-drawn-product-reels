@@ -28,7 +28,7 @@ There are two ways in:
 | `skills/video-playbook/` | The owner's video-marketing playbook (hooks, story, pacing, endings), the skill both films followed. |
 | `docs/` | The real planning files: the receptionist plan with four hook options, the LeadFlow briefs sent to ChatGPT, its answers, and scripts v1 to v3. See [`docs/README.md`](docs/README.md). |
 | `src/receptionist/`, `src/leadflow/` | The two finished films' code (their scenes are built for each product). |
-| `public/` | What the films play: each narration line (`vo-<scene>.mp3`), the music bed (`bed.mp3`) and the track it was cut from. |
+| `public/` | What the films play: each narration line (`vo-<scene>.mp3`). The music bed (`bed.mp3`) and the track it was cut from (`track-source.mp3`) aren't included; `tools/get_music.py` fetches them (see Setup). |
 | `voice/` | The narration projects: script (`plan.json`), voice and delivery notes (`gemini-voice.json`), word timings. |
 | `tools/` | Voice, music, review and finishing scripts (table below). |
 
@@ -48,7 +48,14 @@ There are two ways in:
 ```
 npm ci                                       # the exact package versions that rendered the films
 python -m pip install -r requirements.txt
+python tools/get_music.py                    # the music, from the Reelkit library (needed before any render)
 ```
+
+**The music isn't in this repository.** The two tracks belong to the [Reelkit](https://reelkit.cc) music library,
+so you download them from there yourself. `tools/get_music.py` needs the Reelkit CLI on your PATH: it pulls
+"Product Film Glide" and "Minimal Tech Pulse", saves them as `public/<film>/track-source.mp3` and cuts the three beds
+(`public/leadflow/`, `public/receptionist/`, `public/starter/bed.mp3`) with the same cuts the films were made with.
+Git ignores these files; don't commit them. Without them, a film won't render.
 
 To record or check narration, create a file named `.env` in this folder (git ignores it):
 
@@ -180,6 +187,7 @@ The storyboard stills: `npx remotion still src/index.ts RecSheet out/storyboard.
 | `tools/sync_voice.py` | Puts a recorded narration into the film: copies the lines to `public/<film>/` and writes `src/<film>/voice.json`. |
 | `tools/blind_check.py` | Transcribes each line with no script given to the model, to hear what the voice really said. |
 | `tools/film_transcript.py` | Blind transcript of a rendered film with times: every line there, in order, nothing cut off. |
+| `tools/get_music.py` | Downloads the films' two tracks from the Reelkit library and cuts the three beds. |
 | `tools/beat_grid.py` | A track's bar times and which bars hit hardest. |
 | `tools/build_bed.py` | Cuts the track into a bed as long as the film, on the bars, so a strong bar lands on the payoff. |
 | `tools/contact_sheet.py` | One picture of many moments of a render, to review it at a glance. |
@@ -241,7 +249,8 @@ ffmpeg -ss 47.4 -i out/leadflow-reel.mp4 -frames:v 1 -vf scale=720:1280 out/lead
   are Mashtech's: use the films as a worked example, not as ads to republish.
 - The narration is Gemini TTS (voice Sulafat). The music tracks come from the [Reelkit](https://reelkit.cc) music
   library ("Minimal Tech Pulse" for the receptionist, "Product Film Glide" for LeadFlow; the starter's bed is cut
-  from the LeadFlow track). For your own published films, get your own track there or from another licensed source.
+  from the LeadFlow track). They aren't included here; `tools/get_music.py` downloads them from Reelkit. For your
+  own published films, get your own track there or from another licensed source.
 - Fonts: Karantina, Assistant and JetBrains Mono from Google Fonts (SIL Open Font License), loaded by
   `@remotion/google-fonts` at render time.
 - Remotion has its own license: free for individuals and small companies, a paid license for larger ones. See

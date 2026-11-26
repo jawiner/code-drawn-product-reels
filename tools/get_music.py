@@ -68,6 +68,7 @@ def main():
     for track_film, bed_film, args in BEDS:
         track = PUBLIC / track_film / "track-source.mp3"
         bed = PUBLIC / bed_film / "bed.mp3"
+        bed.parent.mkdir(parents=True, exist_ok=True)  # public/starter/ holds only the bed, so a clone hasn't got it
         print(f"Cutting {bed.relative_to(ROOT).as_posix()} ...")
         run([sys.executable, str(ROOT / "tools" / "build_bed.py"), str(track), str(bed), *args])
 
